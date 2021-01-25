@@ -13,5 +13,3 @@ function hsort(arr) {
 		};
     });
 };
-
-console.log(hsort(["a", 2, "h", "g", "h"]));
